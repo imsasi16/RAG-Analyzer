@@ -1,0 +1,623 @@
+[
+  {
+    "question": "What is the purpose of the NIST Cybersecurity Framework?",
+    "retrieval_method": "DB BASELINE",
+    "answer": "The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, government agencies, and other organizations for managing cybersecurity risks. It offers a taxonomy of high‑level cybersecurity outcomes that any organization can use to better understand, assess, prioritize, and communicate its cybersecurity efforts. The framework does not prescribe how to achieve those outcomes but links to additional resources that can help.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 1.041575
+  },
+  {
+    "question": "What is the purpose of the NIST Cybersecurity Framework?",
+    "retrieval_method": "KEYWORD RETRIEVAL",
+    "answer": "The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, government agencies, and other organizations for managing cybersecurity risks. It offers a taxonomy of high‑level cybersecurity outcomes that any organization can use to better understand, assess, prioritize, and communicate its cybersecurity efforts. The framework does not prescribe how to achieve those outcomes but links to additional resources that can help.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.72409
+  },
+  {
+    "question": "What is the purpose of the NIST Cybersecurity Framework?",
+    "retrieval_method": "METADATA RETRIEVAL",
+    "answer": "The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, government agencies, and other organizations for managing cybersecurity risks. It offers a taxonomy of high‑level cybersecurity outcomes that any organization can use to better understand, assess, prioritize, and communicate its cybersecurity efforts. The framework does not prescribe how to achieve those outcomes but links to additional resources that can help.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.902259
+  },
+  {
+    "question": "What is the purpose of the NIST Cybersecurity Framework?",
+    "retrieval_method": "VECTOR RETRIEVAL",
+    "answer": "The NIST Cybersecurity Framework (CSF) 2.0 is a foundational resource that helps organizations of all sizes and sectors manage cybersecurity risk. It provides a common language for communicating about risks, capabilities, and needs, and offers guidance on identifying, protecting, detecting, responding to, and recovering from cyber events. The framework can be adopted voluntarily or through governmental policies and is designed to improve an organization’s cybersecurity policies, plans, processes, procedures, and practices.",
+    "source_pages": [
+      1,
+      3,
+      7,
+      9,
+      18
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 1.027708
+  },
+  {
+    "question": "What is the purpose of the NIST Cybersecurity Framework?",
+    "retrieval_method": "HYBRID RETRIEVAL",
+    "answer": "The NIST Cybersecurity Framework (CSF) 2.0 is intended to help organizations of all sizes and sectors manage and reduce their cybersecurity risks. It provides guidance and a taxonomy of high‑level cybersecurity outcomes that can be used to better understand, assess, prioritize, and communicate cybersecurity efforts. The framework links to additional resources for achieving those outcomes but does not prescribe specific implementation details.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      5,
+      9
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.90618
+  },
+  {
+    "question": "What is cybersecurity risk management?",
+    "retrieval_method": "DB BASELINE",
+    "answer": "Cybersecurity risk management is the process of identifying, assessing, prioritizing, and communicating cybersecurity risks so that an organization can make informed decisions about its security posture. The NIST Cybersecurity Framework (CSF) 2.0 offers guidance and a taxonomy of high‑level outcomes to help organizations of any size or sector manage those risks. It does not prescribe specific controls but links to resources that can be used to achieve the desired outcomes.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.585536
+  },
+  {
+    "question": "What is cybersecurity risk management?",
+    "retrieval_method": "KEYWORD RETRIEVAL",
+    "answer": "Cybersecurity risk management is the process of identifying, assessing, prioritizing, and communicating cybersecurity risks so that an organization can make informed decisions about its security posture. The NIST Cybersecurity Framework (CSF) 2.0 offers guidance and a taxonomy of high‑level outcomes to help organizations of any size or sector manage those risks. It does not prescribe specific controls but links to resources that can be used to achieve the desired outcomes.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.76656
+  },
+  {
+    "question": "What is cybersecurity risk management?",
+    "retrieval_method": "METADATA RETRIEVAL",
+    "answer": "Cybersecurity risk management is the process of identifying, assessing, prioritizing, and communicating cybersecurity risks so that an organization can make informed decisions about its security posture. The NIST Cybersecurity Framework (CSF) 2.0 offers guidance and a taxonomy of high‑level outcomes to help organizations of any size or sector manage those risks. It does not prescribe specific controls but links to resources that can be used to achieve the desired outcomes.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.731449
+  },
+  {
+    "question": "What is cybersecurity risk management?",
+    "retrieval_method": "VECTOR RETRIEVAL",
+    "answer": "Cybersecurity risk management is the process by which an organization identifies, assesses, and monitors the cybersecurity risks of its assets. It uses risk‑informed policies, procedures, and governance structures to address potential events and is embedded in the organizational culture. The approach is continuously updated based on changes in business, threats, and the technological landscape.",
+    "source_pages": [
+      16,
+      29,
+      30
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 1.214088
+  },
+  {
+    "question": "What is cybersecurity risk management?",
+    "retrieval_method": "HYBRID RETRIEVAL",
+    "answer": "Cybersecurity risk management is the process of identifying, assessing, prioritizing, and communicating cybersecurity risks so that an organization can make informed decisions and maintain or adjust its risk strategy. The NIST Cybersecurity Framework (CSF) 2.0 offers guidance for this process, linking to resources that help organizations implement practices and controls to achieve desired outcomes. It supports an organization‑wide approach where risk information is routinely shared and monitored, and executives incorporate cybersecurity considerations into all lines of operation.",
+    "source_pages": [
+      1,
+      2,
+      16,
+      29
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.851294
+  },
+  {
+    "question": "What are the functions of the NIST Cybersecurity Framework?",
+    "retrieval_method": "DB BASELINE",
+    "answer": "The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, government agencies, and other organizations for managing cybersecurity risks. It offers a taxonomy of high‑level cybersecurity outcomes that can be used by any organization—regardless of size, sector, or maturity—to better understand, assess, prioritize, and communicate its cybersecurity efforts. The framework does not prescribe how those outcomes should be achieved, instead linking to additional resources that describe practices and controls that could be used to attain them.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.890732
+  },
+  {
+    "question": "What are the functions of the NIST Cybersecurity Framework?",
+    "retrieval_method": "KEYWORD RETRIEVAL",
+    "answer": "The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, government agencies, and other organizations for managing cybersecurity risks. It offers a taxonomy of high‑level cybersecurity outcomes that can be used by any organization—regardless of size, sector, or maturity—to better understand, assess, prioritize, and communicate its cybersecurity efforts. The framework does not prescribe how those outcomes should be achieved, but links to additional resources that can help organizations implement the desired practices and controls.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.835866
+  },
+  {
+    "question": "What are the functions of the NIST Cybersecurity Framework?",
+    "retrieval_method": "METADATA RETRIEVAL",
+    "answer": "The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, government agencies, and other organizations for managing cybersecurity risks. It offers a taxonomy of high‑level cybersecurity outcomes that can be used by any organization—regardless of size, sector, or maturity—to better understand, assess, prioritize, and communicate its cybersecurity efforts. The framework does not prescribe how those outcomes should be achieved, but links to additional resources that can help organizations implement the desired practices and controls.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.980263
+  },
+  {
+    "question": "What are the functions of the NIST Cybersecurity Framework?",
+    "retrieval_method": "VECTOR RETRIEVAL",
+    "answer": "The NIST Cybersecurity Framework (CSF) 2.0 defines six core functions: GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, and RECOVER. These functions organize cybersecurity outcomes at the highest level and are intended to guide risk management and incident response efforts.",
+    "source_pages": [
+      1,
+      3,
+      8,
+      9,
+      10
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.415235
+  },
+  {
+    "question": "What are the functions of the NIST Cybersecurity Framework?",
+    "retrieval_method": "HYBRID RETRIEVAL",
+    "answer": "The NIST Cybersecurity Framework (CSF) 2.0 is organized around six core functions.  \nIn the provided excerpt, two of those functions are described:  \n\n- **PROTECT (PR)** – Safeguards to manage cybersecurity risks, including identity management, access control, training, data security, platform security, and infrastructure resilience.  \n- **DETECT (DE)** – Processes to identify possible cybersecurity attacks and compromises.  \n\nThe other four functions are mentioned as part of the six but are not named in the excerpt.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      9
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 1.313928
+  },
+  {
+    "question": "What is the Govern function?",
+    "retrieval_method": "DB BASELINE",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.502879
+  },
+  {
+    "question": "What is the Govern function?",
+    "retrieval_method": "KEYWORD RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.910781
+  },
+  {
+    "question": "What is the Govern function?",
+    "retrieval_method": "METADATA RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 1.805936
+  },
+  {
+    "question": "What is the Govern function?",
+    "retrieval_method": "VECTOR RETRIEVAL",
+    "answer": "The GOVERN Function defines an organization’s cybersecurity risk‑management strategy, expectations, and policy. It establishes, communicates, and monitors governance activities such as roles, responsibilities, authorities, and oversight of the cybersecurity strategy. GOVERN also informs and prioritizes the other five Functions (IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER) within the context of the organization’s mission and stakeholder expectations.",
+    "source_pages": [
+      8,
+      9,
+      10,
+      16
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.910054
+  },
+  {
+    "question": "What is the Govern function?",
+    "retrieval_method": "HYBRID RETRIEVAL",
+    "answer": "The GOVERN function is the central part of the NIST CSF wheel. It informs how an organization will implement the other five functions—IDENTIFY, PROTECT, DETECT, RESPOND, and RECOVER—by guiding planning, testing, and overall cybersecurity risk governance.",
+    "source_pages": [
+      1,
+      2,
+      9,
+      10
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 1.036113
+  },
+  {
+    "question": "What is the Identify function?",
+    "retrieval_method": "DB BASELINE",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 1.561058
+  },
+  {
+    "question": "What is the Identify function?",
+    "retrieval_method": "KEYWORD RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.839383
+  },
+  {
+    "question": "What is the Identify function?",
+    "retrieval_method": "METADATA RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 7.657654
+  },
+  {
+    "question": "What is the Identify function?",
+    "retrieval_method": "VECTOR RETRIEVAL",
+    "answer": "The Identify (ID) function is the process by which an organization understands its current cybersecurity risks. It involves cataloguing assets—such as data, hardware, software, systems, facilities, services, and people—along with suppliers and the associated risks. This knowledge allows the organization to prioritize its risk‑management efforts in line with its strategy and mission needs.",
+    "source_pages": [
+      8,
+      9,
+      10,
+      23,
+      24
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 11.168849
+  },
+  {
+    "question": "What is the Identify function?",
+    "retrieval_method": "HYBRID RETRIEVAL",
+    "answer": "The Identify (ID) function is the process by which an organization understands its current cybersecurity risks. It involves identifying assets—such as data, hardware, software, systems, facilities, services, and people—along with suppliers and related risks. This knowledge enables the organization to prioritize efforts in line with its risk‑management strategy and mission needs.",
+    "source_pages": [
+      1,
+      2,
+      8,
+      10
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 10.996494
+  },
+  {
+    "question": "What is the Protect function?",
+    "retrieval_method": "DB BASELINE",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 1.480162
+  },
+  {
+    "question": "What is the Protect function?",
+    "retrieval_method": "KEYWORD RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.628332
+  },
+  {
+    "question": "What is the Protect function?",
+    "retrieval_method": "METADATA RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 8.523743
+  },
+  {
+    "question": "What is the Protect function?",
+    "retrieval_method": "VECTOR RETRIEVAL",
+    "answer": "The Protect (PR) Function is the set of safeguards that an organization uses to manage its cybersecurity risks. It focuses on securing identified assets to reduce the likelihood and impact of adverse events while also enabling opportunities. Outcomes include identity management, authentication, access control, awareness and training, data security, platform security, and the resilience of technology infrastructure.",
+    "source_pages": [
+      9,
+      10,
+      24,
+      25
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 11.22776
+  },
+  {
+    "question": "What is the Protect function?",
+    "retrieval_method": "HYBRID RETRIEVAL",
+    "answer": "The Protect function (PR) is a set of safeguards that an organization uses to manage its cybersecurity risks. It helps secure assets after they and their risks have been identified and prioritized, reducing the likelihood and impact of adverse events while also enabling opportunities. Outcomes covered by Protect include identity management, authentication and access control, awareness and training, data security, platform security, and the resilience of technology infrastructure.",
+    "source_pages": [
+      1,
+      2,
+      9,
+      24
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 9.761625
+  },
+  {
+    "question": "What is the Detect function?",
+    "retrieval_method": "DB BASELINE",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": false,
+    "execution_time_seconds": 1.320385
+  },
+  {
+    "question": "What is the Detect function?",
+    "retrieval_method": "KEYWORD RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": false,
+    "execution_time_seconds": 0.639303
+  },
+  {
+    "question": "What is the Detect function?",
+    "retrieval_method": "METADATA RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": false,
+    "execution_time_seconds": 0.731864
+  },
+  {
+    "question": "What is the Detect function?",
+    "retrieval_method": "VECTOR RETRIEVAL",
+    "answer": "The DETECT function is the process of finding and analyzing possible cybersecurity attacks and compromises. It enables the timely discovery and analysis of anomalies, indicators of compromise, and other potentially adverse events that may indicate that attacks or incidents are occurring. This function supports successful incident response and recovery activities.",
+    "source_pages": [
+      8,
+      9,
+      10
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 10.996836
+  },
+  {
+    "question": "What is the Detect function?",
+    "retrieval_method": "HYBRID RETRIEVAL",
+    "answer": "The Detect function focuses on the timely detection of unexpected events and the discovery of cybersecurity incidents. It supports identifying incidents that may require response and recovery actions. The function is one of the six core functions of the NIST Cybersecurity Framework, working alongside GOVERN, IDENTIFY, PROTECT, RESPOND, and RECOVER.",
+    "source_pages": [
+      1,
+      2,
+      3,
+      9,
+      10
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 10.032875
+  },
+  {
+    "question": "What is the Respond function?",
+    "retrieval_method": "DB BASELINE",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": false,
+    "execution_time_seconds": 2.061787
+  },
+  {
+    "question": "What is the Respond function?",
+    "retrieval_method": "KEYWORD RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": false,
+    "execution_time_seconds": 1.243861
+  },
+  {
+    "question": "What is the Respond function?",
+    "retrieval_method": "METADATA RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": false,
+    "execution_time_seconds": 0.659223
+  },
+  {
+    "question": "What is the Respond function?",
+    "retrieval_method": "VECTOR RETRIEVAL",
+    "answer": "The RESPOND (RS) function involves taking actions after a cybersecurity incident has been detected. It focuses on containing the effects of the incident and includes outcomes such as incident management, analysis, mitigation, reporting, and communication. The function supports the organization’s ability to respond effectively to and manage cybersecurity incidents.",
+    "source_pages": [
+      9,
+      10,
+      27,
+      31
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.938306
+  },
+  {
+    "question": "What is the Respond function?",
+    "retrieval_method": "HYBRID RETRIEVAL",
+    "answer": "The RESPOND (RS) function involves taking actions when a cybersecurity incident is detected. It supports containing the effects of the incident and includes outcomes such as incident management, analysis, mitigation, reporting, and communication.",
+    "source_pages": [
+      1,
+      2,
+      9
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 1.903511
+  },
+  {
+    "question": "What is the Recover function?",
+    "retrieval_method": "DB BASELINE",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": false,
+    "execution_time_seconds": 1.103932
+  },
+  {
+    "question": "What is the Recover function?",
+    "retrieval_method": "KEYWORD RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": false,
+    "execution_time_seconds": 3.643569
+  },
+  {
+    "question": "What is the Recover function?",
+    "retrieval_method": "METADATA RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": false,
+    "execution_time_seconds": 5.965725
+  },
+  {
+    "question": "What is the Recover function?",
+    "retrieval_method": "VECTOR RETRIEVAL",
+    "answer": "The Recover function (RC) is the part of the NIST Cybersecurity Framework that focuses on restoring assets and operations that have been affected by a cybersecurity incident. It ensures that systems and services are brought back to operational availability, verifies the integrity of backups and restored assets, and confirms normal operating status. Recovery activities are coordinated with internal and external stakeholders, and progress is communicated to designated parties and the public as appropriate.",
+    "source_pages": [
+      9,
+      27,
+      28
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 9.496946
+  },
+  {
+    "question": "What is the Recover function?",
+    "retrieval_method": "HYBRID RETRIEVAL",
+    "answer": "The Recover function (RC) is the part of the NIST Cybersecurity Framework that focuses on restoring assets and operations that have been affected by a cybersecurity incident. It ensures that systems and services are brought back to operational availability through activities such as the Incident Recovery Plan Execution (RC.RP). The function supports timely restoration of normal operations and facilitates appropriate communication during recovery efforts.",
+    "source_pages": [
+      1,
+      2,
+      9,
+      27
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 12.492324
+  },
+  {
+    "question": "What are CSF Organizational Profiles?",
+    "retrieval_method": "DB BASELINE",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 1.579977
+  },
+  {
+    "question": "What are CSF Organizational Profiles?",
+    "retrieval_method": "KEYWORD RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.481138
+  },
+  {
+    "question": "What are CSF Organizational Profiles?",
+    "retrieval_method": "METADATA RETRIEVAL",
+    "answer": "The answer could not be found in the provided document.",
+    "source_pages": [
+      1,
+      2,
+      3
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 0.71804
+  },
+  {
+    "question": "What are CSF Organizational Profiles?",
+    "retrieval_method": "VECTOR RETRIEVAL",
+    "answer": "CSF Organizational Profiles describe an organization’s current and/or target cybersecurity posture in terms of the CSF Core’s outcomes. They are used to understand, tailor, assess, prioritize, and communicate those outcomes by considering mission objectives, stakeholder expectations, threat landscape, and requirements. An Organizational Profile can include a Current Profile, which specifies outcomes the organization is currently achieving, and a Target Profile, which outlines desired future outcomes.",
+    "source_pages": [
+      7,
+      11,
+      12,
+      31
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 11.31125
+  },
+  {
+    "question": "What are CSF Organizational Profiles?",
+    "retrieval_method": "HYBRID RETRIEVAL",
+    "answer": "CSF Organizational Profiles are a mechanism for describing an organization’s current and/or target cybersecurity posture in terms of the Framework’s Core outcomes. They help an organization understand, tailor, assess, prioritize, and communicate those outcomes by considering mission objectives, stakeholder expectations, threat landscape, and requirements. An Organizational Profile can include a Current Profile—showing what outcomes are presently achieved—and a Target Profile—showing desired future outcomes.",
+    "source_pages": [
+      1,
+      2,
+      11,
+      31
+    ],
+    "relevant_context_retrieved": true,
+    "execution_time_seconds": 11.01517
+  }
+]

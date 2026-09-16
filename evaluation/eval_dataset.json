@@ -1,0 +1,52 @@
+[
+    {
+        "id": "Q1",
+        "question": "What is the purpose of the NIST Cybersecurity Framework?",
+        "keywords": ["cybersecurity", "framework", "risk"]
+    },
+    {
+        "id": "Q2",
+        "question": "What is cybersecurity risk management?",
+        "keywords": ["cybersecurity", "risk", "management"]
+    },
+    {
+        "id": "Q3",
+        "question": "What are the functions of the NIST Cybersecurity Framework?",
+        "keywords": ["Govern", "Identify", "Protect", "Detect", "Respond", "Recover"]
+    },
+    {
+        "id": "Q4",
+        "question": "What is the Govern function?",
+        "keywords": ["Govern", "strategy", "cybersecurity", "risk"]
+    },
+    {
+        "id": "Q5",
+        "question": "What is the Identify function?",
+        "keywords": ["Identify", "assets", "risks"]
+    },
+    {
+        "id": "Q6",
+        "question": "What is the Protect function?",
+        "keywords": ["Protect", "safeguards", "security"]
+    },
+    {
+        "id": "Q7",
+        "question": "What is the Detect function?",
+        "keywords": ["Detect", "anomalies", "events"]
+    },
+    {
+        "id": "Q8",
+        "question": "What is the Respond function?",
+        "keywords": ["Respond", "incident", "response"]
+    },
+    {
+        "id": "Q9",
+        "question": "What is the Recover function?",
+        "keywords": ["Recover", "restoration", "resilience"]
+    },
+    {
+        "id": "Q10",
+        "question": "What are CSF Organizational Profiles?",
+        "keywords": ["Organizational", "Profile", "Current", "Target"]
+    }
+]
